@@ -19,6 +19,7 @@ const Popularjobs = () => {
     query: "React developer",
     num_pages: "1",
   });
+  console.log(data)
 
   const [selectedJob, setSelectedJob] = useState();
 
@@ -43,12 +44,12 @@ const Popularjobs = () => {
           <Text>Something went wrong</Text>
         ) : (
           <FlatList
-            data={data}
+            data={[1,2,3,4,5,6,7]}
             renderItem={({ item }) => (
               <PopularJobCard
                 item={item}
-                selectedJob={selectedJob}
-                handleCardPress={handleCardPress}
+                // selectedJob={selectedJob}
+                // handleCardPress={handleCardPress}
               />
             )}
             keyExtractor={(item) => item.job_id}
