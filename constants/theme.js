@@ -11,9 +11,9 @@ const COLORS = {
 };
 
 const FONT = {
-  regular: "DMRegular",
+  regular: "Avenir-Medium",
   medium: "san Francisco",
-  bold: "DMBold",
+  bold: "AvenirNext-Bold",
 };
 
 const SIZES = {
