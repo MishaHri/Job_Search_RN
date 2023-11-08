@@ -20,10 +20,6 @@ const Nearbyjobs = () => {
     query: 'React developer',
     num_pages: 1,
   });
-  // console.log(data)
-
-
-
   return (
     <View style={styles.container}>
       <View style={styles.header}>
