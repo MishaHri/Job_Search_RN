@@ -1,20 +1,11 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+Job application app using React Native
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+The users can browse jobs on the aplication based on location and most popular jobs on LinkeIN and other famous platforms
+The app fetch real data from J search rapid API.
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+You can see details about jobs, and also have a direct button that directs to the web site and apply.
 
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
+To do 
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+in the following future i plan to imprement the share button, create a favourite list, and develop the user page.
+
