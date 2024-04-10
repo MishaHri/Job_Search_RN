@@ -12,7 +12,7 @@ const COLORS = {
 
 const FONT = {
   regular: "Avenir-Medium",
-  medium: "san Francisco",
+  medium: 'Cochin',
   bold: "AvenirNext-Bold",
 };
 
